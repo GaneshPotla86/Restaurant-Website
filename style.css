@@ -57,6 +57,11 @@
     font-size: 16px;
     color: #5a7184;
 }
+.offers{
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
 .wcu-card{
     background-color: #ffffff;
     text-align: center;
